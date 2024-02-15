@@ -1,0 +1,28 @@
+fev 14, 2024 5:01:20 PM edu.wpi.first.shuffleboard.api.util.Storage findOrCreate
+INFO: Creating directory C:\Users\lucas\Shuffleboard\themes
+fev 14, 2024 5:01:20 PM edu.wpi.first.shuffleboard.app.Shuffleboard init
+INFO: Build time: 2020-02-21T16:02:00.551758Z
+fev 14, 2024 5:01:21 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loading plugin edu.wpi.first.shuffleboard:Base:1.1.8
+fev 14, 2024 5:01:21 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loaded plugin edu.wpi.first.shuffleboard:Base in 47ms
+fev 14, 2024 5:01:21 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loading plugin edu.wpi.first.shuffleboard:NetworkTables:2.2.5
+fev 14, 2024 5:01:21 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loaded plugin edu.wpi.first.shuffleboard:NetworkTables in 16ms
+fev 14, 2024 5:01:21 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loading plugin edu.wpi.first.shuffleboard:CameraServer:3.0.0
+fev 14, 2024 5:01:24 PM edu.wpi.first.shuffleboard.app.plugin.PluginLoader load
+INFO: Loaded plugin edu.wpi.first.shuffleboard:CameraServer in 3237ms
+fev 14, 2024 5:01:24 PM edu.wpi.first.shuffleboard.api.util.Storage findOrCreate
+INFO: Creating directory C:\Users\lucas\Shuffleboard\plugins
+fev 14, 2024 5:01:24 PM edu.wpi.first.shuffleboard.app.MainWindowController initialize
+INFO: Setting up plugins in the UI
+fev 14, 2024 5:01:24 PM edu.wpi.first.shuffleboard.app.Shuffleboard init
+INFO: Took 496ms to load the main FXML
+fev 14, 2024 5:01:26 PM edu.wpi.first.shuffleboard.app.Shuffleboard start
+WARNING: Took 6049ms to start Shuffleboard
+fev 14, 2024 5:01:32 PM edu.wpi.first.shuffleboard.app.Shuffleboard stop
+INFO: Running shutdown hooks
+fev 14, 2024 5:01:32 PM edu.wpi.first.shuffleboard.app.Shuffleboard stop
+INFO: Shutting down
